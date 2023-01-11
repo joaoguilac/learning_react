@@ -1,0 +1,18 @@
+.footer {
+  background: #6278F7;
+  color: #FFFFFF;
+  padding: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icones {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icones a {
+  margin-right: 32px;
+}
