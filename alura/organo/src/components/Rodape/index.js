@@ -2,7 +2,7 @@ import './Rodape.css';
 
 const Rodape = () => {
   return (
-    <footer className="footer">
+    <footer className="footer" style={{backgroundImage: 'url(/images/fundo.png)'}}>
       <section className="icones">
         <a href="https://www.facebook.com/">
           <img src='/images/fb.png' alt='ícone do facebook'/>
